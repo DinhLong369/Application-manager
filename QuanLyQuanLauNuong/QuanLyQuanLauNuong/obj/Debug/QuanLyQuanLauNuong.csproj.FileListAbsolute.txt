@@ -1,0 +1,39 @@
+D:\assets_c#\QuanLyQuanLauNuong\QuanLyQuanLauNuong\bin\Debug\QuanLyQuanLauNuong.exe.config
+D:\assets_c#\QuanLyQuanLauNuong\QuanLyQuanLauNuong\bin\Debug\QuanLyQuanLauNuong.exe
+D:\assets_c#\QuanLyQuanLauNuong\QuanLyQuanLauNuong\bin\Debug\QuanLyQuanLauNuong.pdb
+D:\assets_c#\QuanLyQuanLauNuong\QuanLyQuanLauNuong\obj\Debug\QuanLyQuanLauNuong.csproj.AssemblyReference.cache
+D:\assets_c#\QuanLyQuanLauNuong\QuanLyQuanLauNuong\obj\Debug\QuanLyQuanLauNuong.csproj.SuggestedBindingRedirects.cache
+D:\assets_c#\QuanLyQuanLauNuong\QuanLyQuanLauNuong\obj\Debug\QuanLyQuanLauNuong.fAdmin.resources
+D:\assets_c#\QuanLyQuanLauNuong\QuanLyQuanLauNuong\obj\Debug\QuanLyQuanLauNuong.fLogin.resources
+D:\assets_c#\QuanLyQuanLauNuong\QuanLyQuanLauNuong\obj\Debug\QuanLyQuanLauNuong.fTableManager.resources
+D:\assets_c#\QuanLyQuanLauNuong\QuanLyQuanLauNuong\obj\Debug\QuanLyQuanLauNuong.Properties.Resources.resources
+D:\assets_c#\QuanLyQuanLauNuong\QuanLyQuanLauNuong\obj\Debug\QuanLyQuanLauNuong.csproj.GenerateResource.cache
+D:\assets_c#\QuanLyQuanLauNuong\QuanLyQuanLauNuong\obj\Debug\QuanLyQuanLauNuong.csproj.CoreCompileInputs.cache
+D:\assets_c#\QuanLyQuanLauNuong\QuanLyQuanLauNuong\obj\Debug\QuanLyQuanLauNuong.exe
+D:\assets_c#\QuanLyQuanLauNuong\QuanLyQuanLauNuong\obj\Debug\QuanLyQuanLauNuong.pdb
+E:\QuanLyQuanLauNuong\QuanLyQuanLauNuong\QuanLyQuanLauNuong\bin\Debug\QuanLyQuanLauNuong.exe.config
+E:\QuanLyQuanLauNuong\QuanLyQuanLauNuong\QuanLyQuanLauNuong\bin\Debug\QuanLyQuanLauNuong.exe
+E:\QuanLyQuanLauNuong\QuanLyQuanLauNuong\QuanLyQuanLauNuong\bin\Debug\QuanLyQuanLauNuong.pdb
+E:\QuanLyQuanLauNuong\QuanLyQuanLauNuong\QuanLyQuanLauNuong\obj\Debug\QuanLyQuanLauNuong.csproj.AssemblyReference.cache
+E:\QuanLyQuanLauNuong\QuanLyQuanLauNuong\QuanLyQuanLauNuong\obj\Debug\QuanLyQuanLauNuong.csproj.SuggestedBindingRedirects.cache
+E:\QuanLyQuanLauNuong\QuanLyQuanLauNuong\QuanLyQuanLauNuong\obj\Debug\QuanLyQuanLauNuong.fAdmin.resources
+E:\QuanLyQuanLauNuong\QuanLyQuanLauNuong\QuanLyQuanLauNuong\obj\Debug\QuanLyQuanLauNuong.fLogin.resources
+E:\QuanLyQuanLauNuong\QuanLyQuanLauNuong\QuanLyQuanLauNuong\obj\Debug\QuanLyQuanLauNuong.fTableManager.resources
+E:\QuanLyQuanLauNuong\QuanLyQuanLauNuong\QuanLyQuanLauNuong\obj\Debug\QuanLyQuanLauNuong.Properties.Resources.resources
+E:\QuanLyQuanLauNuong\QuanLyQuanLauNuong\QuanLyQuanLauNuong\obj\Debug\QuanLyQuanLauNuong.csproj.GenerateResource.cache
+E:\QuanLyQuanLauNuong\QuanLyQuanLauNuong\QuanLyQuanLauNuong\obj\Debug\QuanLyQuanLauNuong.csproj.CoreCompileInputs.cache
+E:\QuanLyQuanLauNuong\QuanLyQuanLauNuong\QuanLyQuanLauNuong\obj\Debug\QuanLyQuanLauNuong.exe
+E:\QuanLyQuanLauNuong\QuanLyQuanLauNuong\QuanLyQuanLauNuong\obj\Debug\QuanLyQuanLauNuong.pdb
+E:\DATA LEARNING\QuanLyQuanLauNuong\QuanLyQuanLauNuong\QuanLyQuanLauNuong\obj\Debug\QuanLyQuanLauNuong.csproj.AssemblyReference.cache
+E:\DATA LEARNING\QuanLyQuanLauNuong\QuanLyQuanLauNuong\QuanLyQuanLauNuong\obj\Debug\QuanLyQuanLauNuong.csproj.SuggestedBindingRedirects.cache
+E:\DATA LEARNING\QuanLyQuanLauNuong\QuanLyQuanLauNuong\QuanLyQuanLauNuong\obj\Debug\QuanLyQuanLauNuong.fAdmin.resources
+E:\DATA LEARNING\QuanLyQuanLauNuong\QuanLyQuanLauNuong\QuanLyQuanLauNuong\obj\Debug\QuanLyQuanLauNuong.fLogin.resources
+E:\DATA LEARNING\QuanLyQuanLauNuong\QuanLyQuanLauNuong\QuanLyQuanLauNuong\obj\Debug\QuanLyQuanLauNuong.fTableManager.resources
+E:\DATA LEARNING\QuanLyQuanLauNuong\QuanLyQuanLauNuong\QuanLyQuanLauNuong\obj\Debug\QuanLyQuanLauNuong.Properties.Resources.resources
+E:\DATA LEARNING\QuanLyQuanLauNuong\QuanLyQuanLauNuong\QuanLyQuanLauNuong\obj\Debug\QuanLyQuanLauNuong.csproj.GenerateResource.cache
+E:\DATA LEARNING\QuanLyQuanLauNuong\QuanLyQuanLauNuong\QuanLyQuanLauNuong\obj\Debug\QuanLyQuanLauNuong.csproj.CoreCompileInputs.cache
+E:\DATA LEARNING\QuanLyQuanLauNuong\QuanLyQuanLauNuong\QuanLyQuanLauNuong\obj\Debug\QuanLyQuanLauNuong.exe
+E:\DATA LEARNING\QuanLyQuanLauNuong\QuanLyQuanLauNuong\QuanLyQuanLauNuong\obj\Debug\QuanLyQuanLauNuong.pdb
+E:\DATA LEARNING\QuanLyQuanLauNuong\QuanLyQuanLauNuong\QuanLyQuanLauNuong\bin\Debug\QuanLyQuanLauNuong.exe.config
+E:\DATA LEARNING\QuanLyQuanLauNuong\QuanLyQuanLauNuong\QuanLyQuanLauNuong\bin\Debug\QuanLyQuanLauNuong.exe
+E:\DATA LEARNING\QuanLyQuanLauNuong\QuanLyQuanLauNuong\QuanLyQuanLauNuong\bin\Debug\QuanLyQuanLauNuong.pdb
